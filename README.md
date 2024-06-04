@@ -2,11 +2,6 @@
 
 Welcome to the ConnectFour Game AI repository! This project features an AI agent that plays the ConnectFour game using a minimax algorithm with alpha-beta pruning. This project was made as part of the Artificial Intelligence class at the University of South Carolina under the supervision of Professor Forest Agostinelli.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
 
 ## Features
 - ConnectFour game environment
@@ -24,7 +19,7 @@ Welcome to the ConnectFour Game AI repository! This project features an AI agent
 python3 run_connect_four.py
 
 ## Contributors
-**Forest Agostinelli**
+**Forest Agostinelli**/n
 foresta@cse.sc.edu (research homepage).
 
 
