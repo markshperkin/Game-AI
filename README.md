@@ -20,11 +20,10 @@ Welcome to the ConnectFour Game AI repository! This project features an AI agent
    git clone https://github.com/markshperkin/Game-AI.git
    cd Game AI
 ```
-## Usage
-**How To Run**
+## How To Run
 python3 run_connect_four.py
 
-##Contributors
+## Contributors
 **Forest Agostinelli**
 foresta@cse.sc.edu (research homepage).
 
