@@ -23,6 +23,6 @@ python3 run_connect_four.py
 
 ## Contributors
 **Forest Agostinelli**
-foresta@cse.sc.edu (research homepage).
+foresta@cse.sc.edu ([research homepage](https://cse.sc.edu/~foresta/)).
 
 
