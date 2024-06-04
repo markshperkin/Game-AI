@@ -17,7 +17,7 @@ Welcome to the ConnectFour Game AI repository! This project features an AI agent
 ## Installation
 **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/connectfour-game-ai.git
+   git clone https://github.com/markshperkin/Game-AI.git
    cd connectfour-game-ai ```sh
 
 ## Usage
